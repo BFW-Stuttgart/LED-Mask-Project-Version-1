@@ -21,3 +21,7 @@ Wenn Sie Fragen oder Anregungen zu unserem Projekt haben, dürfen Sie mich gerne
 Viel Spass beim Nachbauen, denken Sie dabei daran, uns nach den Creative Commons zu zitieren,
 
 Thomas Kaltenbach und das Team der SE-Auszubildenden des BFW Schömberg
+
+https://www.bfw-schoemberg.de/
+
+http://www.bfw-in-schoemberg.de/it.php
