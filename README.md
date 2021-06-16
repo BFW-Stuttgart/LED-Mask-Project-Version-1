@@ -1,5 +1,5 @@
 # LED-Mask-Project-Version-1
-TThis is our project to create a mask witrh a LED-screen. This project was undertaken by our trainees who train to become System Elecronicans here at the BFW Schömberg.
+TThis is our project to create a mask with a LED-screen. This project was undertaken by our trainees who train to become System Elecronicans here at the BFW Schömberg.
 
 We created this mask as a project to learn more about IoT, how to implement LED into wearables and how to deploy code to various IoT controllers. 
 And furthermore, because it is a fun project that helped others who can see us laugh and talk while wearing a facemask.
