@@ -22,6 +22,6 @@ Viel Spass beim Nachbauen, denken Sie dabei daran, uns nach den Creative Commons
 
 Thomas Kaltenbach und das Team der SE-Auszubildenden des BFW Schömberg
 
-https://www.bfw-schoemberg.de/
+[Webseite des BFW Schömberg](https://www.bfw-schoemberg.de/ "www.bfw-schoemberg.de")
 
-http://www.bfw-in-schoemberg.de/it.php
+[Die IT-Ausbildung beim BFW Schömberg](http://www.bfw-in-schoemberg.de/it.php "IT-Ausbildung beim BFW Schömberg")
